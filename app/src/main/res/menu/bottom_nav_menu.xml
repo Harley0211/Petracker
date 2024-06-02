@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_filled_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/baseline_map_24"
+        android:title="Map" />
+    <item
+        android:id="@+id/navigation_controls"
+        android:icon="@drawable/baseline_control_camera_24"
+        android:title="Controls" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Settings" />
+</menu>
